@@ -1,4 +1,4 @@
-# spotif
+# spotify clone
 
 ## Project setup
 ```
